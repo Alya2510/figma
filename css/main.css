@@ -228,6 +228,7 @@ h1 {
 .contacts {
     display: flex;
     padding-top: 75px;
+    padding-bottom: 70px;
 }
 
 .contacts__item {
